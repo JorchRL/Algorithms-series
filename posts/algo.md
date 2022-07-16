@@ -26,9 +26,9 @@ Before offering the proof, lets take a moment to reason through what we are even
 asking!
 
 The way to proceed can be to find out what is the biggest number we can
-represent with a single base $b$ digit. Think for example, base 10, where $9 =
-10^1 - 1$. In base 2, we have that $1 = 2^1-1$. In base 16 (hexadecimal), $15 =
-\text{F} = 16^1 - 1$. And so on. Can you see it?
+represent with a single base $b$ digit. Think for example, base 10, where
+$9=10^1-1$. In base 2, we have that $1 = 2^1-1$. In base 16 (hexadecimal),
+$15=\text{F}=16^1-1$. And so on. Can you see it?
 
 > Indeed we should prove this second claim. But it is straightforward enough
 > that we can convince ourselves that it is valid.
